@@ -1,2 +1,6 @@
 My initial text
+<<<<<<< HEAD
 Change from master
+=======
+change from dev
+>>>>>>> dev
